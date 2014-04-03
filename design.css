@@ -4,4 +4,5 @@ body {
 div {
     right: 50px;
     float: right;
+    position: absolute;
 }
