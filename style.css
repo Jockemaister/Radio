@@ -3,7 +3,7 @@ body{
 }
 #Bild{
 	Position: absolute;
-	top: 5px;
+	top: 0;
 }
 * {
 	margin: 0;
