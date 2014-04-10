@@ -1,6 +1,9 @@
-
 body{
 	background-color: #52DEE8;
+}
+#Bild{
+	Position: absolute;
+	top: 5px;
 }
 * {
 	margin: 0;
