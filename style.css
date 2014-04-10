@@ -1,6 +1,7 @@
 .p{
 	width: 100px;
 	background-color: lightblue;
+	float: left;
 }
 
 body{
