@@ -23,12 +23,12 @@ html{
 }
 
 ul {
-	list-style: none;
+	list-style: none;	
+}
+#navigation {
+	position: absolute;
 	right: 5px;
 	top: 5px;
-}
-
-#navigation {
 	float: right;
 	margin: 40px 0;	
 	font: bold 12px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
