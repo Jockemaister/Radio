@@ -58,7 +58,7 @@ ul {
     border-color: #BABABA #BABABA #BABABA #FFF;
 	box-shadow: 0 1px rgba(255,255,255,1) inset;
 	-webkit-box-shadow: 0 1px rgba(255,255,255,1) inset;
-	background: #F7F7F7; /* Old browsers */
+	background: #52DEE8; /* Old browsers */
 	background: -moz-linear-gradient(top, #F7F7F7 0%, #EDEDED 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#F7F7F7), color-stop(100%,#EDEDED)); /* Chrome,Safari4+ */
 	background: -webkit-linear-gradient(top, #F7F7F7 0%,#EDEDED 100%); /* Chrome10+,Safari5.1+ */
