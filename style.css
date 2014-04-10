@@ -20,12 +20,12 @@ html{
 	margin: 0;
 	padding: 0;
 	outline: none;	
-	right: 5px;
-	top: 5px;
 }
 
 ul {
-	list-style: none;	
+	list-style: none;
+	right: 5px;
+	top: 5px;
 }
 
 #navigation {
