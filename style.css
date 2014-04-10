@@ -4,6 +4,7 @@ body{
 #Bild{
 	Position: absolute;
 	top: 0;
+	text-align: center;
 }
 * {
 	margin: 0;
