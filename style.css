@@ -12,6 +12,9 @@ License: MIT License
 License URI: http://www.opensource.org/licenses/mit-license.php
 ------------------------------------------------------------------------- */
 
+html{
+	background-color: #333366;
+}
 
 * {
 	margin: 0;
