@@ -28,7 +28,7 @@ ul {
 
 #navigation {
 	float: right;
-	right 5px;
+	right: 5px;
 	margin: 40px 0;	
 	font: bold 12px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
