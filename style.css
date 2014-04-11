@@ -1,10 +1,10 @@
-
 body{
 	background-color: #52DEE8;
 }
 #Bild{
 	Position: absolute;
 	top: 0;
+	right: 300px;
 }
 * {
 	margin: 0;
